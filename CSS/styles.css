@@ -198,7 +198,7 @@ form{
     width: 40%;
     margin: auto;
     padding: 50 auto 50 auto;
-    height: 75%;
+    height: 80%;
     padding-bottom: 20;
     padding-top: 10;
     border-color: #1f7a8c;
@@ -227,6 +227,10 @@ input{
 }
 
 .ans{
-    padding-top: 50;
+    padding-top: 20;
+}
+
+.textbox{
+    margin-bottom: 20;
 }
 
